@@ -48,8 +48,11 @@ print(parsr_ints([1,3,'r','t',4]))
 תרגיל 5
 """
 
-# def set_age(age):
-#     if age > 150 or age
+def set_age(age):
+    if age > 150 or age < 0:
+        raise ValueError
+    else: 
+        return age
 
 
 """
@@ -90,4 +93,4 @@ def load_config(path):
             raise RuntimeError("failed to load config")
         
 
-print(load_config('a_file.txt'))
+print(set_age(151))
