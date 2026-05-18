@@ -1,3 +1,5 @@
+#https://github.com/ArielKanner/kodkod_git/blob/main/weeks/week6/lists/lists.py
+
 """
 תרגיל 1
 """
