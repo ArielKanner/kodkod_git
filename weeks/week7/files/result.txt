@@ -1,0 +1,11 @@
+=== Student Results ===
+1. Avi: 97.66666666666667
+2. MOMO: 91.66666666666667
+3. Dan: 84.33333333333333
+4. Yoni: 71.66666666666667
+5. Sara: 66.66666666666667
+
+=== Statistics ===
+average of average: 82.0
+max average: 97.66666666666667
+min average: 66.66666666666667
